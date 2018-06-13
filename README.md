@@ -1,2 +1,2 @@
 # scrolline
-Simple line for site.
+Simple horizontal scroll line for site.

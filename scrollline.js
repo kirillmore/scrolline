@@ -1,5 +1,5 @@
 /*!
- * scrollline.js v1.3
+ * scrollline.js v1.4
  * @copyright 2017 Kirill More | kirillmore86@gmail.com
  * @license MIT
  * github https://github.com/kirillmore/scrolline
